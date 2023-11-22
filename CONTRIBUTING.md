@@ -125,16 +125,40 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/cncast
 
 <!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
 
+
+### How Do I Contribute with Code?
+
+We actively welcome your pull requests:
+
+1. Fork or clone the repo and create your branch from `master`
+2. If you've added code that should be tested, add tests
+3. Add docstrings to facilitate our generated documentation
+4. Ensure your (and our) tests pass
+5. Post the PR or file an issue and we will work with you
+
+**Styling Note**: We (mostly) use Julia [Blue](https://github.com/invenia/BlueStyle), it would be great if you did as well.
+
+Your original text is already quite clear, but here's a refined version for improved clarity and grammar:
+
+
+### How Do I Contribute with Code?
+
+We enthusiastically encourage your contributions through pull requests. Here's a step-by-step guide:
+
+1. Fork or clone the repository and create your branch from the `master` branch.
+2. If your code introduces new functionality, be sure to include corresponding tests.
+3. Enhance the codebase by adding descriptive docstrings to support our automated documentation.
+4. Validate that both your tests and our existing tests pass successfully.
+5. Submit your pull request or file an issue, and we will collaborate with you on the next steps.
+
+**Styling Note**: We primarily adhere to the Julia [BlueStyle](https://github.com/invenia/BlueStyle). It would be highly appreciated if you followed this style guide as well.
+
+
 <!-- TODO
-### Your First Code Contribution
-
-include Setup of env, IDE and typical getting started instructions?
-
 ### Improving The Documentation
 
 Updating, improving and correcting the documentation
 
-## Styleguides
 ### Commit Messages
 
 ## Join The Project Team
